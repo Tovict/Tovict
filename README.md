@@ -14,7 +14,7 @@
   
   🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://machinelearning.org/" target="_blank"><u>Machine Learning</u></a>
   
-  🚧 &nbsp;I'm a self taught data Scientist  ... 👀.
+  🚧 &nbsp;I'm a self taught data Scientist... 👀.
   
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 </p>
