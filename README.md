@@ -3,8 +3,6 @@
 <!--
 **Tovict/Tovict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-
 ## I'm an Aspiring Data Scientist with a strong analytical background, Data Analytics, Data Science, and Agile Software Development skills, I build data-driven solutions. #Tovict <br>
 
 ## I enjoy writing technical tutorial blog articles, Participating in Coding contests and Solving Python. <br>
