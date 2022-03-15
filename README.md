@@ -1,11 +1,13 @@
 ### Hi there 👋
-# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Victoria</b>
+
+# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Tovict</b>
 
 <br>
 
 <!-- <img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/> -->
 <p aligh="left">
   <p>Hey there, welcome!</br>
+  
   I'm Victoria Olanipekun, Data Scientist from <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg" width="20px"/> <b>Lagos, Nigeria</b>.</p>
   	
   💡 &nbsp;I like to explore new trends and learn new technologies.
