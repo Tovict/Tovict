@@ -16,7 +16,7 @@
   
   🚧 &nbsp;I'm a self taught data Scientist... 👀.
   
-  💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
+  💬 &nbsp;Feel free to reach out to me for consulting,intership, volunteering or just for some interesting discussion.
 </p>
 <br>
 
