@@ -8,15 +8,15 @@
 <p aligh="left">
   <p>Hey there, welcome!</br>
   
-  I'm Victoria Olanipekun, Data Scientist from <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg" width="20px"/> <b>Lagos, Nigeria</b>.</p>
+  I'm Victoria Olanipekun, Data Analyst from <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg" width="20px"/> <b>Lagos, Nigeria</b>.</p>
   	
-  💡 &nbsp;I like to explore new trends and learn new technologies.
+  💡 &nbsp; I like to explore new trends and learn new technologies.
   
-  🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://machinelearning.org/" target="_blank"><u>Machine Learning</u></a>
+  🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://cloud.google.com/" target="_blank"><u>Google Cloud</u></a>
   
-  🚧 &nbsp;I'm a self taught data Scientist... 👀.
+  🚧 &nbsp; I'm a self-taught data analyst... 👀.
   
-  💬 &nbsp;Feel free to reach out to me for consulting,intership, volunteering or just for some interesting discussion at gbadegesinvictoria@gmail.com
+  💬 &nbsp; Feel free to reach out to me for consulting, internship, volunteering or just for some interesting discussion at gbadegesinvictoria@gmail.com
 </p>
 <br>
 
